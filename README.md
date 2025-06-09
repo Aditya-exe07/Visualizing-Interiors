@@ -3,7 +3,7 @@
 ### CS50x Final Project  
 **By:** Aditya Kadam  
 **GitHub:** https://github.com/Aditya-exe07/Visualizing-Interiors.git 
-**Demo Video:** [YouTube demo link here]
+**Demo Video:** https://youtu.be/DkyRLdGtc10
 
 ---
 
@@ -67,6 +67,10 @@ The app includes a basic user registration system using Core Data, ensuring a pe
 
 1. Clone the repository:
    ```bash
-   git clone [your repo link]
+   git clone https://github.com/Aditya-exe07/Visualizing-Interiors.git
+2. Open the Project in Xcode
+3. Run the project on an iPhone/iPad
+4. ARKit requires real iPhone/iPad functionalities. Some features may not work on simulators.
+   
 
 
