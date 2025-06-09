@@ -35,6 +35,25 @@ The app includes a basic user registration system using Core Data, ensuring a pe
 
 ---
 
+## File Descriptions
+
+- `AppDelegate.swift` – Handles app lifecycle events.
+- `ContentView.swift` – Main UI with login/register screen and navigation.
+- `RoomView.swift` – SwiftUI views for each room type.
+- `ARViewContainer.swift` – Hosts and manages AR experience using ARKit/RealityKit.
+- `Model.swift` – Contains data models for users and furniture items.
+- `CoreDataManager.swift` – Manages saving and fetching registered user data.
+
+---
+
+## Design Decisions
+
+One of the biggest decisions was whether to store layout data persistently. Initially, I wanted users to be able to return to a previously designed room. However, due to time constraints and the complexity of mapping 3D positions to persistent data, I chose to only implement AR placement for now and save layout saving for a future update.
+
+Another decision was choosing Core Data over Firebase. Core Data integrated well with SwiftUI and was enough for local user registration. However, if this project expands to sharing layouts online, Firebase or another cloud solution might be more appropriate.
+
+---
+
 ## How It Works (see demo)
 
 1. Register and log in to the app.
