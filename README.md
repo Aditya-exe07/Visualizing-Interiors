@@ -11,7 +11,7 @@
 
 **Visualizing Interiors** is an iOS app that allows users to design and preview room layouts using Augmented Reality (AR). Users can select a room type (like bedroom, kitchen, study, etc.) and place virtual furniture in their physical space through their device's camera.
 
-The app includes a basic user registration system using Core Data, ensuring a personalized experience. Though saving of room layouts is not yet implemented, the app lays the foundation for future expansion into persistent and shareable design sessions.
+The app includes a basic user registration system using Core Data, ensuring a personalized experience. The app lays the foundation for future expansion into persistent and shareable design sessions.
 
 ---
 
