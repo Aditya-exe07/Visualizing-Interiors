@@ -2,7 +2,7 @@
 
 ### CS50x Final Project  
 **By:** Aditya Kadam  
-**GitHub:** [your GitHub link here]  
+**GitHub:** https://github.com/Aditya-exe07/Visualizing-Interiors.git 
 **Demo Video:** [YouTube demo link here]
 
 ---
